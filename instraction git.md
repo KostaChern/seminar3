@@ -1,7 +1,6 @@
 # Инструкция по работе с системой контроля версий GIT
 
-![Emblemm Git] (logo_git.jpeg)
-
+![Emblemm Git](logo_git.jpeg) 
 
 
 ## Общая информация по GIT
